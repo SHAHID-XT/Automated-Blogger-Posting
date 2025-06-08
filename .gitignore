@@ -1,0 +1,6 @@
+.env
+__pycache__
+__pycache__/*
+used_links.txt
+credentials.json
+token.pkl
